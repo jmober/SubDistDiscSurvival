@@ -8,12 +8,18 @@
 #####                      presented in Section 4                        ##### 
 ##############################################################################
 
+# Note: For confidentiality reasons, the data set presented here is not 
+# identical with the data used in the paper. Instead, the following R-code 
+# employs an anonymized data set that was generated from the original data 
+# in order to produce results that are similar (but not identical!) to those 
+# in the paper. In particular, data lines in the anonymized data set do not 
+# refer to real individuals.
+
+#####
+##### 
 
 # load data 
 load("dataS.rda")
-# The dataset contains a subset of n=1600 individuals of the original data
-# used for the analysis presented in the paper, where the values of the 
-# explanatory variable had been slightly modified for 10% of the individuals. 
 
 # load R packages 
 library("discSurv")
