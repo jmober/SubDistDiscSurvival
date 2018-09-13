@@ -13,7 +13,7 @@
 # (i) weighted ML estimation, and (ii) unweighted ML estimation using the 
 # complete censoring information. 
 
-# The R-Code provided can be used to reprodce Table 1 and Figure 1 of the paper, 
+# The R-Code provided can be used to reproduce Table 1 and Figure 1 of the paper, 
 # and Figure 2 and Figure 3 of the online appendix. 
 
 
